@@ -1,4 +1,4 @@
-# web-scraping-enetcom-s-teachers
+# web-scraping-enetcom's-teachers
 
 * scraping data about enetcom teachers
 * all data can be found in the `enetcom staff.csv` file 
